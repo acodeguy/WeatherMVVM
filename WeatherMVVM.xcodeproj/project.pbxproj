@@ -19,6 +19,7 @@
 		49DE19EE245EC41F0081036A /* ServiceableProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE19ED245EC41F0081036A /* ServiceableProtocol.swift */; };
 		49DE19F1245EC4570081036A /* WeatherService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE19F0245EC4570081036A /* WeatherService.swift */; };
 		49DE19F4245EC87A0081036A /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE19F3245EC87A0081036A /* WeatherViewController.swift */; };
+		49DE19F6245F0E880081036A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 49DE19F5245F0E880081036A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		49DE19ED245EC41F0081036A /* ServiceableProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceableProtocol.swift; sourceTree = "<group>"; };
 		49DE19F0245EC4570081036A /* WeatherService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherService.swift; sourceTree = "<group>"; };
 		49DE19F3245EC87A0081036A /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		49DE19F5245F0E880081036A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		49DE19B4245EBE050081036A = {
 			isa = PBXGroup;
 			children = (
+				49DE19F5245F0E880081036A /* README.md */,
 				49DE19BF245EBE050081036A /* WeatherMVVM */,
 				49DE19D6245EBE070081036A /* WeatherMVVMTests */,
 				49DE19BE245EBE050081036A /* Products */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49DE19F6245F0E880081036A /* README.md in Resources */,
 				49DE19CD245EBE070081036A /* LaunchScreen.storyboard in Resources */,
 				49DE19CA245EBE070081036A /* Assets.xcassets in Resources */,
 			);
